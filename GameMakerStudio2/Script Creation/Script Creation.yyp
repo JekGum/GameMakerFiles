@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "041ec89d-6cd2-4db3-aa56-3ef5ec38f55d",
+            "Value": {
+                "id": "8c619264-0c36-482e-8129-fe61bd4fa3af",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "04fd69b2-8560-4587-b3d6-276488349111",
             "Value": {
                 "id": "eae783d8-c896-46a5-b725-4eb675af7a7d",
@@ -60,6 +68,14 @@
                 "id": "c8aaf633-5f86-4e63-821d-1e7863b813d6",
                 "resourcePath": "scripts\\Scr_ResetRangeOfAlarms\\Scr_ResetRangeOfAlarms.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2dd30039-922e-4897-a4a9-cf1ddbaf9589",
+            "Value": {
+                "id": "c3c69436-2207-4685-b31f-d02a75eaf1d3",
+                "resourcePath": "objects\\object1\\object1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "d870f181-edc8-4559-9f68-11e47748d141",
+            "Value": {
+                "id": "356d8e11-a21a-48f4-b898-ec68b0428f33",
+                "resourcePath": "scripts\\Scr_ProjectileRange\\Scr_ProjectileRange.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dfbdc9e4-7b92-4157-9d45-a96aecd37e53",
             "Value": {
                 "id": "9b9cb77c-1f7e-4623-9297-f220727a4e47",
@@ -254,7 +278,8 @@
         "2a366fc3-dd26-4987-ad7d-bb5e196139f9",
         "85fefa2a-633f-4523-bec0-55c442d5b807",
         "7d8bb1b0-4017-40cc-a94f-9ffc7810e0df",
-        "ba3593de-ce8c-40ff-9079-811459d948eb"
+        "ba3593de-ce8c-40ff-9079-811459d948eb",
+        "d870f181-edc8-4559-9f68-11e47748d141"
     ],
     "tutorial": ""
 }

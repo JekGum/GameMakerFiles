@@ -1,3 +1,5 @@
+/// @param {boolean} ResetAll
+
 if argument0 == true{
 	i = 0
 	while i <= 11{
