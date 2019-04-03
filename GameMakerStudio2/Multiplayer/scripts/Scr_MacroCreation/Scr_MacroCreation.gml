@@ -1,0 +1,1 @@
+#macro MESSAGE_MOVE 1

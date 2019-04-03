@@ -1,0 +1,1 @@
+Obj_DruidCooldowns.alarm[Obj_DruidCooldowns.Var_MushroomFieldCDAlarm] = Obj_DruidCooldowns.Var_MushroomFieldCDAlarmTime

@@ -1,0 +1,1 @@
+Obj_DruidCooldowns.alarm[Obj_DruidCooldowns.Var_HealingLotusCDAlarm] = Obj_DruidCooldowns.Var_HealingLotusCDAlarmTime

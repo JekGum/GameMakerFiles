@@ -1,0 +1,1 @@
+Obj_DuelistCooldowns.Var_ParryCD = false

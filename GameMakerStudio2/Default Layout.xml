@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="54" y="-8" width="1858" height="1057" id="19" title="Hemomancer Class - GameMaker Studio 2" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[83, 106]" workspace_scale="1" />
+			<Workspace active="False" chain="False" title="room0" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="7fe8317e-ed37-4e53-9208-87294c6e77e2">
+						<RoomEditArea>
+							<PanArea zoom="0.9899999" pan="[-157.5253, -36]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="6a2900f0-b602-47e4-8f38-06e44731b779" />
+								<Item GUID="0091ed3d-9cc7-4723-b3a6-5dab23777b0c" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eRight" restore_size="298.2473dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="d6925cac-42cf-49bd-af5f-739cf577b6e4">
+				<Module Command="open_resource_tree">
+					<ResourceWindow left="1582px" right="" top="292.5px" bottom="" width="350dpi_px" height="540dpi_px" flags="CloseButton, ResizeButton" title="Resources" localise_title="ResourceTree_Title" active_view="Default" Scale="100" />
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="199.8dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="2679b58b-2aec-455a-b255-5e9460be2559">
+				<Module Command="open_output_panel">
+					<Window left="268px" right="" top="989.5px" bottom="" width="900dpi_px" height="240dpi_px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+	<Modules>
+		<YoYoStudio.Plugins.CorePlugins.RoomEditorModule>
+			<RoomEditor />
+		</YoYoStudio.Plugins.CorePlugins.RoomEditorModule>
+	</Modules>
+</Project>

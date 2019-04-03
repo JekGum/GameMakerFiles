@@ -1,0 +1,1 @@
+server = Scr_ServerCreate(9000)

@@ -1,0 +1,2 @@
+Obj_DuelistCooldowns.Var_ParryActiveCD = false
+Obj_DuelistPlayer.Var_PlayerCurrentMoveSpeed = Obj_DuelistPlayer.Var_PlayerBaseMoveSpeed + Obj_DuelistPlayer.Var_PlayerAdditionalMoveSpeed
