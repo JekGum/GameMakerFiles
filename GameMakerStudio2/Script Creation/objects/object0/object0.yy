@@ -319,7 +319,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "Var_CurrentHealth",
-            "varName": "Var_PreviousHealth",
+            "varName": "Var_PreviousCurrentHealth",
             "varType": 1
         },
         {
@@ -333,7 +333,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "Var_CurrentArmour",
-            "varName": "Var_PreviousArmour",
+            "varName": "Var_PreviousCurrentArmour",
             "varType": 0
         },
         {
@@ -347,7 +347,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "Var_CurrentMoveSpeed",
-            "varName": "Var_PreviousMoveSpeed",
+            "varName": "Var_PreviousCurrentMoveSpeed",
             "varType": 0
         },
         {
@@ -361,7 +361,63 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "Var_CurrentCDR",
-            "varName": "Var_PreviousCDR",
+            "varName": "Var_PreviousCurrentCDR",
+            "varType": 0
+        },
+        {
+            "id": "2ca34a6c-dd74-4f84-a52c-3fbd40dddaa4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Var_AdditionalHealth",
+            "varName": "Var_PreviousAdditionalHealth",
+            "varType": 0
+        },
+        {
+            "id": "aca90e7a-bfaa-4c01-8f49-257fbb9efd7d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Var_AdditionalArmour",
+            "varName": "Var_PreviousAdditionalArmour",
+            "varType": 0
+        },
+        {
+            "id": "feabb756-cc97-4ca0-a2f5-88971aa2425f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Var_AdditionalMoveSpeed",
+            "varName": "Var_PreviousAdditionalMoveSpeed",
+            "varType": 0
+        },
+        {
+            "id": "2282feb2-eb60-426e-b4cd-a8d7acbfaf55",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Var_AdditionalCDR",
+            "varName": "Var_PreviousAdditionalCDR",
             "varType": 0
         }
     ],

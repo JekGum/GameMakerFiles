@@ -1,1 +1,1 @@
-Scr_ProjectileRange(250, 5)
+Scr_ProjectileRange(250, 20)
