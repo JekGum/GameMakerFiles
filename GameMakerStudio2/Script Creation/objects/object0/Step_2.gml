@@ -34,4 +34,4 @@ else{
 	Var_PreviousCurrentCDR = Var_CurrentCDR
 	Var_PreviousAdditionalCDR = Var_AdditionalCDR}
 	
-Scr_StatLimit(Var_HealthLimit, Var_ArmourLimit, Var_MoveSpeedLimit, Var_CDRLimit)
+Scr_StatLimit2(Var_HealthLimit, Var_ArmourLimit, Var_MoveSpeedLimit, Var_CDRLimit)
