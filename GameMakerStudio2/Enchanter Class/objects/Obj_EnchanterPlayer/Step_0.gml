@@ -38,7 +38,7 @@
 	
 //Ability 1
 
-	if keyboard_check_pressed(ord("1")) && Obj_EnchanterCooldowns.Var_BuffCD == false && instance_position(mouse_x, mouse_y, all) != 4 && instance_position(mouse_x, mouse_y, all).Var_IsAlly == true{
+	if keyboard_check_pressed(ord("1")) && Obj_EnchanterCooldowns.Var_BuffCD == false && instance_position(mouse_x, mouse_y, all) != -4 && instance_position(mouse_x, mouse_y, all).Var_IsAlly == true{
 		Var_BuffTarget = instance_position(mouse_x, mouse_y, all)
 			if Obj_EnchanterCooldowns.Var_PassiveActive == false{
 				Obj_EnchanterCooldowns.Var_PassiveStack += 1

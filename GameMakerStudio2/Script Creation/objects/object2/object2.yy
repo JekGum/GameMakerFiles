@@ -1,28 +1,18 @@
 {
-    "id": "2dd30039-922e-4897-a4a9-cf1ddbaf9589",
+    "id": "2833d1f3-b810-4464-8908-4f5c5b9e0679",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "object2",
     "eventList": [
         {
-            "id": "4767024c-7c87-4fc1-983a-8aa04e5ab72f",
+            "id": "8ff2362b-6bed-430c-83a3-200028204274",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "2dd30039-922e-4897-a4a9-cf1ddbaf9589"
-        },
-        {
-            "id": "37aaccc5-20cd-4440-89c5-628d7deb6707",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "2dd30039-922e-4897-a4a9-cf1ddbaf9589"
+            "m_owner": "2833d1f3-b810-4464-8908-4f5c5b9e0679"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +33,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "caf68ad8-688e-4fd7-b6fb-43884824a83d",
+            "id": "fe0aeb08-0707-42c7-a72b-406266fca918",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,12 +42,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "Projectile",
+            "value": "Null",
             "varName": "Var_EntityType",
             "varType": 2
         }
     ],
     "solid": false,
-    "spriteId": "041ec89d-6cd2-4db3-aa56-3ef5ec38f55d",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

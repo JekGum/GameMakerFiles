@@ -23,3 +23,8 @@ if keyboard_check_pressed(ord("5")){
 	show_debug_message(Var_CurrentArmour)
 	Var_CurrentArmour += 50
 	show_debug_message(Var_CurrentArmour)}
+	
+if Scr_AbilityAvaliable("Active", object2.Var_TestAbility2, "Hold", "6") == true{
+	if Var_Stack != 0 && Scr_MouseOverEntity("Ally") == true{
+		show_debug_message(Var_Stack)
+		Var_Stack -= 1}}
