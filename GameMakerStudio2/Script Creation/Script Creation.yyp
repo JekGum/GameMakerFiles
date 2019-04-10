@@ -274,7 +274,7 @@
             "Key": "c29a5dbd-32fe-44cf-83ac-d3f15342fbcc",
             "Value": {
                 "id": "79db028a-35f4-4350-b443-7c3e403e55eb",
-                "resourcePath": "scripts\\Scr_MouseOverEntity\\Scr_MouseOverEntity.yy",
+                "resourcePath": "scripts\\Scr_CollisionWithEntity\\Scr_CollisionWithEntity.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -307,6 +307,14 @@
             "Value": {
                 "id": "356d8e11-a21a-48f4-b898-ec68b0428f33",
                 "resourcePath": "scripts\\Scr_ProjectileRange\\Scr_ProjectileRange.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d92f0a71-2d98-443c-8349-9626bd3170e2",
+            "Value": {
+                "id": "706d1bc5-bf5c-4a7d-8261-0c26718f9118",
+                "resourcePath": "scripts\\Scr_ProjectileHitDetection\\Scr_ProjectileHitDetection.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -348,7 +356,8 @@
         "ab4bf053-5165-4f00-a6b5-80aa9bf223f2",
         "16802aa7-8494-4eb0-b653-4923d8135c72",
         "c29a5dbd-32fe-44cf-83ac-d3f15342fbcc",
-        "86861139-85d2-4e33-b1fe-0c7af41c3151"
+        "86861139-85d2-4e33-b1fe-0c7af41c3151",
+        "d92f0a71-2d98-443c-8349-9626bd3170e2"
     ],
     "tutorial": ""
 }

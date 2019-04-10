@@ -17,6 +17,6 @@ if keyboard_check_pressed(ord("3")){
 
 	
 if Scr_AbilityAvaliable("Active", object2.Var_TestAbility2, "Hold", "6") == true{
-	if Var_Stack != 0 && Scr_MouseOverEntity("Ally") == true{
+	if Var_Stack != 0 && Scr_CollisionWithEntity(mouse_x, mouse_y, "Ally") == true{
 		show_debug_message(Var_Stack)
 		Var_Stack -= 1}}

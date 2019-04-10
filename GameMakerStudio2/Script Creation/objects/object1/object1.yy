@@ -52,7 +52,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "Projectile",
+            "value": "AllyProjectile",
             "varName": "Var_EntityType",
             "varType": 2
         }
