@@ -12,6 +12,6 @@ else if keyboard_check_direct(ord("D")) && !keyboard_check_direct(ord("A")){
 else{
 	hspeed = 0}
 	
-var viewmat = matrix_build_lookat(x, y, -10, x, y, 0, 0, 1, 0)
+/*var viewmat = matrix_build_lookat(x, y, -10, x, y, 0, 0, 1, 0)
 
 camera_set_view_mat(Var_Camera, viewmat)

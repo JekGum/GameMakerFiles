@@ -44,10 +44,11 @@
 	
 	//Ability 2
 	
-	
+
 	
 	//Ability 3
 	
-	
+		if keyboard_check_pressed(ord("3")){
+			instance_create_depth(x, y, 1, Obj_Caltrop)}
 	
 	//Ability 4

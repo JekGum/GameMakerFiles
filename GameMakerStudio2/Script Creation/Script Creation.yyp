@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "14689dee-a324-4de6-ac1d-053a649880f3",
+            "Value": {
+                "id": "00440fca-3bd1-4183-af26-8da79a44d532",
+                "resourcePath": "scripts\\Scr_ProjectileStatic\\Scr_ProjectileStatic.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "16802aa7-8494-4eb0-b653-4923d8135c72",
             "Value": {
                 "id": "9484ebee-bc4a-4a34-a25d-2bda7b6253ac",
@@ -124,6 +132,14 @@
                 "id": "4a2daa70-bc3e-4026-99ed-b772a8c4f8ac",
                 "resourcePath": "views\\3aabde7d-2a4a-42ea-8ccd-5c3714a4a1cb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c9a9bf7-0940-4b33-8746-81c17b05b4ab",
+            "Value": {
+                "id": "d1f4f2be-aa4a-41f4-bf49-8df604249d6c",
+                "resourcePath": "objects\\object4\\object4.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "95905c36-01e8-4d87-a401-e659c35a1041",
+            "Value": {
+                "id": "cf9e90c1-5202-463d-abf4-1e5722995101",
+                "resourcePath": "scripts\\Scr_ProjectileCreation\\Scr_ProjectileCreation.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "95c8a6be-0afe-4671-8946-b90fcd878581",
             "Value": {
                 "id": "793b080a-759c-40ab-a677-281755275cfd",
@@ -268,6 +292,30 @@
                 "id": "6e934f53-fd75-483a-af65-64a6380c8f31",
                 "resourcePath": "scripts\\Scr_StatLimit\\Scr_StatLimit.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "bce1f548-7241-482f-9268-914dd07dbc05",
+            "Value": {
+                "id": "bc0e55c5-3a51-4a19-b43f-fa69be499dfd",
+                "resourcePath": "scripts\\Scr_ProjectileTracker\\Scr_ProjectileTracker.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "bd618acd-b4bc-4f3b-94ac-56a3d0a4485d",
+            "Value": {
+                "id": "25c5adab-9ddf-4074-9b45-e621120d369a",
+                "resourcePath": "scripts\\script17\\script17.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c04ddc2c-7775-42c5-9c3b-9ba2a21bd33d",
+            "Value": {
+                "id": "8dfc5e75-22dc-4c1f-9244-cb76999fec93",
+                "resourcePath": "views\\c04ddc2c-7775-42c5-9c3b-9ba2a21bd33d.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -344,6 +392,10 @@
         }
     ],
     "script_order": [
+        "d870f181-edc8-4559-9f68-11e47748d141",
+        "c29a5dbd-32fe-44cf-83ac-d3f15342fbcc",
+        "d92f0a71-2d98-443c-8349-9626bd3170e2",
+        "95905c36-01e8-4d87-a401-e659c35a1041",
         "62c24d32-5768-42ee-ac4a-6e44a23c4380",
         "64bf5fa2-cb19-4117-aa6a-ed2cc20aa691",
         "cf2dfc5d-035b-4f9c-87e8-0ba19d76261e",
@@ -351,13 +403,13 @@
         "85fefa2a-633f-4523-bec0-55c442d5b807",
         "7d8bb1b0-4017-40cc-a94f-9ffc7810e0df",
         "ba3593de-ce8c-40ff-9079-811459d948eb",
-        "d870f181-edc8-4559-9f68-11e47748d141",
         "7a6457c0-a0c9-4fb6-984b-71c323aca177",
         "ab4bf053-5165-4f00-a6b5-80aa9bf223f2",
         "16802aa7-8494-4eb0-b653-4923d8135c72",
-        "c29a5dbd-32fe-44cf-83ac-d3f15342fbcc",
         "86861139-85d2-4e33-b1fe-0c7af41c3151",
-        "d92f0a71-2d98-443c-8349-9626bd3170e2"
+        "14689dee-a324-4de6-ac1d-053a649880f3",
+        "bce1f548-7241-482f-9268-914dd07dbc05",
+        "bd618acd-b4bc-4f3b-94ac-56a3d0a4485d"
     ],
     "tutorial": ""
 }

@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "4f395f4a-b06a-4298-b037-ba7a6735dd14",
+            "Value": {
+                "id": "658b8504-25b5-42ab-bc46-0b893f3f31fd",
+                "resourcePath": "objects\\Obj_Caltrop\\Obj_Caltrop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5c5871d2-8c8f-4256-b4ac-2daf0d21e4dc",
             "Value": {
                 "id": "7aa2fbea-71f7-4cea-889c-1993c35e7def",
@@ -268,6 +276,14 @@
                 "id": "951a0973-e64e-4290-8f3b-7fb7550d06cb",
                 "resourcePath": "objects\\Obj_RogueCooldowns\\Obj_RogueCooldowns.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb4aa4ee-c6c9-4938-80c2-2c688ad5551b",
+            "Value": {
+                "id": "5d5749b6-2c6d-4f10-9b21-91e82a6c54b4",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
