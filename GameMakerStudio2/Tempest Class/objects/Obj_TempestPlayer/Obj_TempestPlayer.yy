@@ -55,6 +55,20 @@
             "value": "5",
             "varName": "Var_CurrentMoveSpeed",
             "varType": 0
+        },
+        {
+            "id": "cfc9009c-ab8e-4098-8269-f2db111d596a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Ally",
+            "varName": "Var_EntityType",
+            "varType": 2
         }
     ],
     "solid": false,

@@ -31,7 +31,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "e27d4b28-4087-49eb-b564-ea7f761705e9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "FireEle",
+            "varName": "Var_EntityType",
+            "varType": 2
+        }
+    ],
     "solid": false,
     "spriteId": "3cf637f7-6b0f-471d-8186-6fb8daae81ee",
     "visible": true

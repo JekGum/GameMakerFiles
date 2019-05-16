@@ -22,7 +22,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "3a72dd52-ad99-4a50-a7e8-7ae3fd9286f0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "WaterEle",
+            "varName": "Var_EntityType",
+            "varType": 2
+        }
+    ],
     "solid": false,
     "spriteId": "62e44661-1bb4-46be-9931-1a163b0d3dc2",
     "visible": true
