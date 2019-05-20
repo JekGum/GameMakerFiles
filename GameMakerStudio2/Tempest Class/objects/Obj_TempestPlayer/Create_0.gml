@@ -1,6 +1,10 @@
 Var_CurrentMoveSpeed = 5
+Var_CurrentElement = "Air"
 Var_FireCount = 0
 Var_WaterCount = 0
 Fire[0] = 0
 FireNum = 0
-Var_Count = 0
+Var_FCount = 0
+Water[0] = 0
+WaterNum = 0
+Var_WCount = 0

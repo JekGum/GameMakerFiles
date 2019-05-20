@@ -1,28 +1,18 @@
 {
-    "id": "b63cdb61-6843-4a1a-89d2-ca28dcb9bb73",
+    "id": "4b52be43-7638-4451-ae4c-689a886bd1fc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_Water",
+    "name": "Obj_StackDraw",
     "eventList": [
         {
-            "id": "ce934a8c-fd87-4ad8-8042-a06d87fd7a5e",
+            "id": "a481986e-4809-445b-9937-8015e92ea001",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b63cdb61-6843-4a1a-89d2-ca28dcb9bb73"
-        },
-        {
-            "id": "d6e0be2b-3a69-4fed-9e35-68c5844d96dc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "b63cdb61-6843-4a1a-89d2-ca28dcb9bb73"
+            "eventtype": 8,
+            "m_owner": "4b52be43-7638-4451-ae4c-689a886bd1fc"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0e029a7f-4d93-414f-b720-16d5a7b7a264",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

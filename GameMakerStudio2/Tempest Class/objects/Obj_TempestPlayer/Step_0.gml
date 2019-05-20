@@ -1,40 +1,35 @@
 Scr_PlayerMovement(true)
 
-if instance_position(x, y, Obj_FireEle) != -4{
-	Var_FireCount ++
-	instance_destroy(instance_position(x, y, Obj_FireEle))
-	show_debug_message(Var_FireCount)}
-
-/*if instance_position(x, y, Obj_WaterEle) != -4{
-	Var_WaterCount ++
-	instance_destroy(instance_position(x, y, Obj_WaterEle))
-	show_debug_message(Var_WaterCount)}*/
-	
-if keyboard_check_pressed(ord("P")){
-	show_debug_message(Fire[0])
-	show_debug_message(Fire[1])
-	show_debug_message(Fire[2])
-	show_debug_message(Fire[3])}
-
-var i = Scr_ScanArray(Fire)
-
-if i != -1{
-	if Var_Count == 5{
-		instance_create_depth(Fire[i].x, Fire[i].y, 0, Obj_FireEle)
-		Var_Count = 0}
-	else{
-		Var_Count += 1}}
-
-/*var i = 0
-
-while (i = array_length_1d(Fire) - 1){
-	if distance_to_object(Fire[i]) < 100{
-	if Fire[i].Var_Count == 10{
-		instance_create_depth(Fire[i].x, Fire[i].y, 0, Obj_FireEle)
-		Fire[i].Var_Count = 0}
-	else{
-		Fire[i].Var_Count ++}
-		show_debug_message(i)
-	i ++}}
-	
-i = 0
+//Passive
+	//Fire
+		Scr_TempestPassive(Obj_FireEle)
+		Scr_TempestPassive(Fire, 200)
+		
+	//Water
+		Scr_TempestPassive(Obj_WaterEle)
+		Scr_TempestPassive(Water, 200)
+		
+//Ability 1
+	if keyboard_check_pressed(ord("1")){
+		if Var_CurrentElement == "Air"{
+			if Var_FireCount > 10{
+				Var_CurrentElement = "Fire"}
+			else if Var_WaterCount > 10{
+				Var_CurrentElement = "Water"}
+			else{}}
+		else if Var_CurrentElement == "Fire"{
+			if Var_WaterCount > 10{
+				Var_CurrentElement = "Water"}
+			else{
+				Var_CurrentElement = "Air"}}
+		else if Var_CurrentElement == "Water"{
+			Var_CurrentElement = "Air"}}
+			
+//Ability 2
+	if keyboard_check_pressed(ord("2")){
+		var blast = instance_create_depth(x, y, 0, Obj_Blast)
+		blast.image_angle = point_direction(x, y, mouse_x, mouse_y)}
+				
+		
+			
+show_debug_message(Var_CurrentElement)
