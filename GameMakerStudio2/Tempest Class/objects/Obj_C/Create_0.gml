@@ -1,0 +1,1 @@
+move_towards_point(Obj_TempestPlayer.x, Obj_TempestPlayer.y, 2)

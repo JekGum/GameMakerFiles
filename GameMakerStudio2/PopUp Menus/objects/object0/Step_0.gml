@@ -1,0 +1,2 @@
+Scr_Test(Obj_PopUp)
+show_debug_message(instance_count)
