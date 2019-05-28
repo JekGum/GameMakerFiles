@@ -5,3 +5,4 @@ Var_MoveSpeed = 0
 Var_Target = noone
 Var_TargetX = 0
 Var_TargetY = 0
+Var_ScaledSpeed = false

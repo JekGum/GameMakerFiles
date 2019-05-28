@@ -1,23 +1,14 @@
 {
-    "id": "63f63f98-ae33-4688-bd59-5e9580c5ddce",
+    "id": "1cf182d5-03f0-4b09-be1c-a37974a3da31",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_Tempest",
+    "name": "Obj_TempestDebuff",
     "eventList": [
-        {
-            "id": "8340ce53-77f6-4fa0-b32b-e3d2ba714a9c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "63f63f98-ae33-4688-bd59-5e9580c5ddce"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "d59ba055-caa5-4e6e-939f-2bd7384593e7",
+    "parentObjectId": "d0387bb7-53d6-4b80-8076-a65ec07e4ef7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

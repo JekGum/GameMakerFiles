@@ -1,23 +1,23 @@
 {
-    "id": "63f63f98-ae33-4688-bd59-5e9580c5ddce",
+    "id": "48c7c256-a33d-4a20-96a2-3c318481757c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_Tempest",
+    "name": "Obj_TempestCD",
     "eventList": [
         {
-            "id": "8340ce53-77f6-4fa0-b32b-e3d2ba714a9c",
+            "id": "19092c53-fdfc-4d7d-b84b-219783085fcd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "63f63f98-ae33-4688-bd59-5e9580c5ddce"
+            "m_owner": "48c7c256-a33d-4a20-96a2-3c318481757c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "d59ba055-caa5-4e6e-939f-2bd7384593e7",
+    "parentObjectId": "f725f989-d495-4a5b-af36-3014f6d04e04",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

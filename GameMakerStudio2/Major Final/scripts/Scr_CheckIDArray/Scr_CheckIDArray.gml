@@ -7,7 +7,7 @@ var c = argument1
 
 while i > -1{
 	if c == "Distance"{
-	if distance_to_object(argument0[i]) < argument2 && argument0[i].Var_EleAvaliable == true{
+	if distance_to_object(argument0[i]) < argument2 && argument0[i].Var_StacksRemaining >= 1{
 	return i}}
 	else{}
 	i--}
