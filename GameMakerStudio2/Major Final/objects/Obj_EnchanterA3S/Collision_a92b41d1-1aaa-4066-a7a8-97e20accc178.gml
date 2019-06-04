@@ -1,0 +1,1 @@
+other.Var_Snared += 3 * room_speed

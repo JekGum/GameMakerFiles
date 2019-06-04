@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Obj_Enchanter",
     "eventList": [
-        
+        {
+            "id": "e617fb46-20e1-4c59-9a23-ec2a3f6f965b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "5b8d5def-c4ba-4086-98e7-0385cb0d5f42"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "ab77d652-6310-4da8-bd05-2acef4e308ee",
     "visible": true
 }

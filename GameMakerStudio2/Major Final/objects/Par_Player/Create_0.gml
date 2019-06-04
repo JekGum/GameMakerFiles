@@ -8,6 +8,7 @@
 	var cooldowns
 	cooldowns = instance_create_depth(0, 0, 0, (asset_get_index(object_get_name(object_index) + "CD")))
 	cooldowns.Var_Player = id
+	CD = cooldowns.id
 	
 // Buffs And Debuffs Setup
 	var buff
@@ -16,4 +17,6 @@
 	debuff = instance_create_depth(0, 0, 0, (asset_get_index(object_get_name(object_index) + "Debuff")))
 	buff.Var_Player = id
 	debuff.Var_Player = id
+	B = buff.id
+	DB = debuff.id
 	

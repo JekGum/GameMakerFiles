@@ -5,7 +5,7 @@
 
 //Passive Ability
 if argument[0] == "Passive"{
-	if argument[1] == true{
+	if argument[1] == 1{
 		return true}
 	else{
 		return false}}
@@ -13,17 +13,17 @@ if argument[0] == "Passive"{
 //Normal Ability
 else if argument[0] == "Active"{
 	if argument[2] == "Press"{
-		if argument[1] == true && keyboard_check_pressed(ord(argument[3])){
+		if argument[1] == 1 && keyboard_check_pressed(ord(argument[3])){
 			return true}
 		else{
 			return false}}
 	else if argument[2] == "Release"{
-		if argument[1] == true && keyboard_check_released(ord(argument[3])){
+		if argument[1] == 1 && keyboard_check_released(ord(argument[3])){
 			return true}
 		else{
 			return false}}
 	else if argument[2] == "Hold"{
-		if argument[1] == true && keyboard_check_direct(ord(argument[3])){
+		if argument[1] == 1 && keyboard_check_direct(ord(argument[3])){
 			return true}
 		else{
 			return false}}}

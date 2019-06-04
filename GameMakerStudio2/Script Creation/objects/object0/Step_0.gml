@@ -2,7 +2,7 @@ Scr_PlayerMovement(true)
 	
 if keyboard_check_pressed(ord("1")){
 	show_debug_message("SS")
-	Scr_ProjectileCreation(object1, "300", 5, "Enemy")}
+	Scr_ProjectileCreation(object1, "Tracker", 5, object3)}
 	//instance_create_depth(x, y, -1, object1)}
 	
 if keyboard_check_pressed(ord("2")){
