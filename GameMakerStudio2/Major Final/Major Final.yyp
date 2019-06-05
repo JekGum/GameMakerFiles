@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0ba09fcc-c840-4638-a391-3396edb06d1e",
+            "Value": {
+                "id": "fa5f886c-f2d6-4e2e-b914-8f098b4a22ad",
+                "resourcePath": "sprites\\Spr_TempestA2Fire\\Spr_TempestA2Fire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d4b15f3-5fd8-4b69-840f-07f1cf6bc0ba",
             "Value": {
                 "id": "78f489a9-d047-4071-bdad-d102159ecdd1",
@@ -188,6 +196,14 @@
                 "id": "ee857a35-49c8-4396-9d23-f2e20004b901",
                 "resourcePath": "views\\3777cba6-597c-4da8-a17a-ed606cee5b62.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "393d5244-631a-439a-95c5-c3b589c1d2d4",
+            "Value": {
+                "id": "fc6cd3a6-1dc1-48b0-a4fc-947b387399fa",
+                "resourcePath": "sprites\\Spr_TempestA2Air\\Spr_TempestA2Air.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -655,11 +671,27 @@
             }
         },
         {
+            "Key": "a9f78ddd-a10b-4cd3-b3cf-46f6439d6328",
+            "Value": {
+                "id": "20727f0d-c5c1-47f4-bbbd-d010e5861428",
+                "resourcePath": "sprites\\Spr_TempestA2Water\\Spr_TempestA2Water.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ab77d652-6310-4da8-bd05-2acef4e308ee",
             "Value": {
                 "id": "1a8fd96f-35f2-44ee-bd8f-0b1c4cf4a9f2",
                 "resourcePath": "sprites\\sprite2\\sprite2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ab9a05d0-1938-4f26-a29f-06b5e5cedd17",
+            "Value": {
+                "id": "49b4c2f6-45e2-42ea-b875-5cd0c479f363",
+                "resourcePath": "objects\\object47\\object47.yy",
+                "resourceType": "GMObject"
             }
         },
         {

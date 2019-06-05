@@ -1,1 +1,1 @@
-alarm[1] = 4 * room_speed
+Var_A1CD = 0
