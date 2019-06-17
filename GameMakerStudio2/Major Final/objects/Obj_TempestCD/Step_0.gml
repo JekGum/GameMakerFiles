@@ -20,7 +20,7 @@
 	
 	if Var_A3CDA == 0{
 		alarm[3] = Var_A3T
-		Var_A2CDA = 2}
+		Var_A3CDA = 2}
 	
 	if Var_A3CDF == 0{
 		alarm[F3] = Var_A3T

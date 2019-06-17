@@ -12,7 +12,7 @@ while i > -1{
 	else{}
 	
 	if c == "TempestDistance"{
-	if distance_to_object(argument0[i]) < argument2 && argument0[i].Var_StacksRemaining >= 1{
+	if distance_to_object(argument0[i]) < argument2 && argument0[i].Var_SR >= 1{
 	return i}}
 	else{}
 	i--}

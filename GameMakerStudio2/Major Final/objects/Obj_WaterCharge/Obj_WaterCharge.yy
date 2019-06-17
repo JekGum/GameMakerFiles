@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Obj_WaterCharge",
     "eventList": [
-        
+        {
+            "id": "59849a44-c8f8-477a-9dd7-6d7f6b69116c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "78de9699-3714-4ee7-b569-628166ef8b36"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,8 +31,10 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "171f7565-bfdd-4850-9cc9-22c7964355a0",
     "visible": true
 }

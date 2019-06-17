@@ -4,6 +4,8 @@
 // Abilities
 
 	// Passive
+	if keyboard_check_direct(ord("Q")){
+		Var_CurrentHealth -= 1}
 
 	
 	// Ability 1

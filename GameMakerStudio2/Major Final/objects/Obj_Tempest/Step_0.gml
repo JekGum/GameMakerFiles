@@ -5,11 +5,11 @@ event_inherited();
 
 	// Passive
 		//Fire
-			Scr_TempestPassive(Obj_FireCharge)
+			//Scr_TempestPassive(Obj_FireCharge)
 			Scr_TempestPassive(Arr_Fire, 200)
 		
 		//Water
-			Scr_TempestPassive(Obj_WaterCharge)
+			//Scr_TempestPassive(Obj_WaterCharge)
 			Scr_TempestPassive(Arr_Water, 200)
 	
 	// Ability 1
@@ -40,6 +40,7 @@ event_inherited();
 			if Scr_AbilityAvaliable("Active", CD.Var_A3CDA, "Press", "3") == true{
 				show_debug_message("3")
 				instance_create_depth(x, y, -1, Obj_TempestA3)
+				Obj_TempestA3.Var_T = self
 				CD.Var_A3CDA = 0}
 		
 		// Ability 4
@@ -61,6 +62,7 @@ event_inherited();
 			if Scr_AbilityAvaliable("Active", CD.Var_A3CDF, "Press", "3") == true && Var_FS >= 5{
 				show_debug_message("3")
 				instance_create_depth(x, y, -1, Obj_TempestA3)
+				Obj_TempestA3.Var_T = self
 				CD.Var_A3CDF = 0
 				Var_FS -= 5}
 		
@@ -84,6 +86,7 @@ event_inherited();
 			if Scr_AbilityAvaliable("Active", CD.Var_A3CDW, "Press", "3") == true && Var_WS >= 5{
 				show_debug_message("3")
 				instance_create_depth(x, y, -1, Obj_TempestA3)
+				Obj_TempestA3.Var_T = self
 				CD.Var_A3CDW = 0
 				Var_WS -= 5}
 		

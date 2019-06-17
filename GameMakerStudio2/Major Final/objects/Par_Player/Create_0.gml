@@ -2,7 +2,8 @@
 	var camera
 	camera = instance_create_depth(x,y,-100, Obj_Camera)
 	with (camera){
-		Var_CameraTarget = other}
+		Var_CameraTarget = other
+		Var_Class = object_get_name(other.object_index)}
 		
 // Cooldowns Setup
 	var cooldowns

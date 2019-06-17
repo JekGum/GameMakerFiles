@@ -1,6 +1,0 @@
-draw_set_color(c_white)
-draw_text(10, 10, global.Var_CurrentElement)
-draw_set_color(c_red)
-draw_text(10, 30, Obj_Tempest.Var_FS)
-draw_set_color(c_blue)
-draw_text(10, 40, Obj_Tempest.Var_WS)

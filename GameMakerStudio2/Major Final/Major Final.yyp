@@ -79,11 +79,35 @@
             }
         },
         {
+            "Key": "13374388-ee93-4a9c-98c3-e20dd7abae24",
+            "Value": {
+                "id": "86ab3d75-e707-46c5-b738-1f83d05c8734",
+                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "134e9818-9d3c-496e-87fd-bd19b1af4540",
             "Value": {
                 "id": "3658084e-73c9-43b7-8e8e-692df8f072c7",
                 "resourcePath": "views\\134e9818-9d3c-496e-87fd-bd19b1af4540.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "15cd6cc9-847c-4e9b-ba0d-727d2778ce4d",
+            "Value": {
+                "id": "40abb123-1fc3-40bd-92fb-2492aa93801b",
+                "resourcePath": "views\\15cd6cc9-847c-4e9b-ba0d-727d2778ce4d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "171f7565-bfdd-4850-9cc9-22c7964355a0",
+            "Value": {
+                "id": "6834b1fa-4730-4949-8796-bbdbec1dcef4",
+                "resourcePath": "sprites\\Spr_TempestWC\\Spr_TempestWC.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -115,6 +139,14 @@
             "Value": {
                 "id": "fd24f185-b2e7-4bcb-a07f-eec61c7e4374",
                 "resourcePath": "views\\1b808dd7-159c-4533-8fd1-e21dcc06c357.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1bf7b321-1b6e-4398-9ed8-b99163d98f9c",
+            "Value": {
+                "id": "00643f86-b43c-4122-8371-cc5fb83f0668",
+                "resourcePath": "views\\1bf7b321-1b6e-4398-9ed8-b99163d98f9c.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -159,11 +191,43 @@
             }
         },
         {
+            "Key": "27f7181d-3dfb-4784-b2e9-9826ac8a2dfd",
+            "Value": {
+                "id": "c8bb20b7-1448-4819-bc65-c8c3256dc94a",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28a6bfb1-f093-40c4-82b0-cbde450e4642",
             "Value": {
                 "id": "d96a948d-71aa-445b-9a90-99e81c074920",
                 "resourcePath": "sprites\\sprite0\\sprite0.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "28e98dd8-0107-4a13-9703-2238b974c8ee",
+            "Value": {
+                "id": "a1e6eb94-6c57-4a76-8a4f-df2a632b5ecd",
+                "resourcePath": "views\\28e98dd8-0107-4a13-9703-2238b974c8ee.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ca92ba4-9a77-410c-96d4-8375a9789ee6",
+            "Value": {
+                "id": "271c59e2-14b6-45b9-84b5-2e044d3675d7",
+                "resourcePath": "scripts\\Scr_TempestFireSource\\Scr_TempestFireSource.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "30aab7b5-3f64-4920-ad53-b4289d95844b",
+            "Value": {
+                "id": "beb41039-a179-43a9-9863-4c572937b2c2",
+                "resourcePath": "objects\\Obj_DuelistBuff\\Obj_DuelistBuff.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +351,14 @@
             }
         },
         {
+            "Key": "4ec53c7c-9500-4a22-86f8-e23f56654548",
+            "Value": {
+                "id": "151bc9d5-5f59-464e-a05d-51d104b52cf8",
+                "resourcePath": "views\\4ec53c7c-9500-4a22-86f8-e23f56654548.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "51fead93-6b09-4746-bdba-7b71a9a85bb1",
             "Value": {
                 "id": "ca4454b0-ea00-425a-bc77-5d95e824a2de",
@@ -340,6 +412,14 @@
                 "id": "0b3ff417-7514-464a-bfdc-37425ccd5dac",
                 "resourcePath": "objects\\Obj_TempestA2\\Obj_TempestA2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5b715267-f1fe-4f9e-8ab9-eee8ecad47b3",
+            "Value": {
+                "id": "570243e7-154b-4c71-a4ca-e78d2ea4186a",
+                "resourcePath": "scripts\\Scr_DrawOutlinedText\\Scr_DrawOutlinedText.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -407,11 +487,27 @@
             }
         },
         {
+            "Key": "6b7286f9-a6e6-4aea-92b7-c828d9f4bacf",
+            "Value": {
+                "id": "ce162e64-a96e-4d9c-92ad-cc128e75b78c",
+                "resourcePath": "objects\\Obj_DuelistCD\\Obj_DuelistCD.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6dbd56d1-97b3-4ccf-8627-9e01cbc259da",
             "Value": {
                 "id": "cc4f5011-baf8-4057-a014-7a00bc32c977",
                 "resourcePath": "objects\\Par_Projectile\\Par_Projectile.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6f1ad6d2-f718-4d43-997a-dfccf0300a06",
+            "Value": {
+                "id": "350ec1b3-4480-45ae-8c1f-d65636630e9b",
+                "resourcePath": "sprites\\Spr_TempestFC\\Spr_TempestFC.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -495,11 +591,27 @@
             }
         },
         {
+            "Key": "827074fd-fae9-4d43-a88b-c5d8d6806e31",
+            "Value": {
+                "id": "812b7092-f548-4983-8afa-1513945077b2",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "849690c2-3c68-41da-b984-a9e0ef790ea9",
             "Value": {
                 "id": "f0b05bd8-b380-4e43-beb5-34abebb457cc",
                 "resourcePath": "scripts\\Scr_StatLimit\\Scr_StatLimit.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "85299131-5dc4-4193-b7dd-e75a8c113554",
+            "Value": {
+                "id": "5c8f18ea-855d-4164-bb8e-8d1cfbd87a18",
+                "resourcePath": "sprites\\Spr_TempestA3Air\\Spr_TempestA3Air.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -515,6 +627,14 @@
             "Value": {
                 "id": "6ba2e852-bcbc-49bc-a677-f62abf93c913",
                 "resourcePath": "views\\86294535-5302-40ab-9c52-9f57a1bf36f6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "89add277-ac37-4b29-ac75-0a932c8b5349",
+            "Value": {
+                "id": "2670e71c-2bde-49b0-ac5f-a71b1ed84d15",
+                "resourcePath": "views\\89add277-ac37-4b29-ac75-0a932c8b5349.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -567,6 +687,14 @@
             }
         },
         {
+            "Key": "8f17677b-a59d-410e-9e3a-984179582948",
+            "Value": {
+                "id": "04d34d45-3cd6-4eab-a5c4-f45cbe30e189",
+                "resourcePath": "sprites\\Spr_TempestA3Water\\Spr_TempestA3Water.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "92c1e328-a03b-4fa1-a37f-2dd6f6d43fdf",
             "Value": {
                 "id": "a3d4abe8-0bb0-4cb9-9e07-2ec5bb7c27d0",
@@ -604,6 +732,14 @@
                 "id": "4f5ce19e-0199-4eb5-ac3f-f65703e13265",
                 "resourcePath": "objects\\Obj_HemomancerDebuff\\Obj_HemomancerDebuff.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "99fe7774-e10b-47d4-8211-9524629b1cd0",
+            "Value": {
+                "id": "f7fcb8d6-3b4d-48d0-9be8-a4f20f86de16",
+                "resourcePath": "scripts\\Scr_TempestWaterSource\\Scr_TempestWaterSource.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -663,6 +799,14 @@
             }
         },
         {
+            "Key": "a78f1e19-bf8a-490c-aaee-a8020861ed3d",
+            "Value": {
+                "id": "f70f32aa-8f4d-446b-b033-4b61320801c7",
+                "resourcePath": "views\\a78f1e19-bf8a-490c-aaee-a8020861ed3d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a9dc74f3-8114-4f68-a2b0-5239f7d52e06",
             "Value": {
                 "id": "a9ad43f4-0dbd-43a4-a3f9-1a1684c13f48",
@@ -687,14 +831,6 @@
             }
         },
         {
-            "Key": "ab9a05d0-1938-4f26-a29f-06b5e5cedd17",
-            "Value": {
-                "id": "49b4c2f6-45e2-42ea-b875-5cd0c479f363",
-                "resourcePath": "objects\\object47\\object47.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "abd2656e-b82a-40c0-bb4e-fb938b66b3df",
             "Value": {
                 "id": "1f7eb6c1-7c08-40c6-b6f8-a91496c3fc53",
@@ -711,6 +847,14 @@
             }
         },
         {
+            "Key": "b10ce11c-a0b4-4abc-bb0d-6864b1ae860a",
+            "Value": {
+                "id": "222fb0e5-4689-46f6-b206-4a017dc98982",
+                "resourcePath": "objects\\Obj_DuelistDebuff\\Obj_DuelistDebuff.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4f37340-1d89-45a0-a460-0c68133211b8",
             "Value": {
                 "id": "103c48b9-0075-4a94-af26-ab4fdfcae05e",
@@ -723,6 +867,14 @@
             "Value": {
                 "id": "0d0c8ce3-a7ee-4ee5-b131-8b6245d7e636",
                 "resourcePath": "views\\bc15699a-5551-43b6-8c70-45afdc4e2dba.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bda54243-edf4-4052-bc2f-b046f77e5a49",
+            "Value": {
+                "id": "5af59f99-5877-48b1-8f3f-58f0b8bdb5e4",
+                "resourcePath": "views\\bda54243-edf4-4052-bc2f-b046f77e5a49.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -764,6 +916,14 @@
                 "id": "4f20abad-9df3-4fe4-a3ad-dd6e53f9a04e",
                 "resourcePath": "objects\\Par_Enemy\\Par_Enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c7c63fd1-1d23-4068-8cc7-b12f0b2fc87a",
+            "Value": {
+                "id": "2e742698-484f-4516-bd65-2bff39cb12a0",
+                "resourcePath": "views\\c7c63fd1-1d23-4068-8cc7-b12f0b2fc87a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -951,6 +1111,14 @@
             }
         },
         {
+            "Key": "f5a56ee6-c568-4dd6-866f-1606fc97d189",
+            "Value": {
+                "id": "768cf2ae-2d0a-41fd-8b9a-50307678c68c",
+                "resourcePath": "sprites\\Spr_TempestA3Fire\\Spr_TempestA3Fire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f725f989-d495-4a5b-af36-3014f6d04e04",
             "Value": {
                 "id": "20f064f3-dfa5-4a15-bc9b-0617ccfea446",
@@ -986,11 +1154,13 @@
     "script_order": [
         "821362b9-a03a-4a12-ba02-586e56072b64",
         "fd95b6e0-7c53-49c9-b65b-544dc1c21473",
-        "9a9f4c10-af6c-443b-8f4b-9898a9220ee3",
         "d4d36054-7b38-4b8c-93e4-b8df04765f3f",
         "e859931c-037c-4674-b4ed-90e65190c9a1",
         "42dbdf7e-cb55-4384-9bd8-62af100fc561",
         "daae5675-9478-4369-99a4-a750a8c266e9",
+        "9a9f4c10-af6c-443b-8f4b-9898a9220ee3",
+        "2ca92ba4-9a77-410c-96d4-8375a9789ee6",
+        "99fe7774-e10b-47d4-8211-9524629b1cd0",
         "be8912a9-3c98-4931-9d1e-5b46c7ba2d3a",
         "849690c2-3c68-41da-b984-a9e0ef790ea9",
         "92c1e328-a03b-4fa1-a37f-2dd6f6d43fdf",
@@ -1001,7 +1171,8 @@
         "d44b9008-9975-4912-b659-5d61dc53624c",
         "a2969bb1-6b82-4cfd-96a7-37089de6014c",
         "1c4aa764-ed37-4d40-9a16-c062ca523fe5",
-        "68fc85d2-a3b8-4f99-97e3-cbe3173e62e1"
+        "68fc85d2-a3b8-4f99-97e3-cbe3173e62e1",
+        "5b715267-f1fe-4f9e-8ab9-eee8ecad47b3"
     ],
     "tutorial": ""
 }

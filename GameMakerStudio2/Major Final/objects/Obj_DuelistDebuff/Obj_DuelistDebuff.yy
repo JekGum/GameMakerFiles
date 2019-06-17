@@ -1,23 +1,14 @@
 {
-    "id": "ab9a05d0-1938-4f26-a29f-06b5e5cedd17",
+    "id": "b10ce11c-a0b4-4abc-bb0d-6864b1ae860a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object47",
+    "name": "Obj_DuelistDebuff",
     "eventList": [
-        {
-            "id": "1d0c0eda-dbd8-48ff-bf97-db15e78e19ea",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "ab9a05d0-1938-4f26-a29f-06b5e5cedd17"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "d0387bb7-53d6-4b80-8076-a65ec07e4ef7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
