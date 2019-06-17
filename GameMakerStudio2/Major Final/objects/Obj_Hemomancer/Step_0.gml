@@ -24,6 +24,7 @@
 	// Ability 2
 		if Scr_AbilityAvaliable("Active", CD.Var_A2CD, "Press", "2") == true{
 			Scr_ProjectileCreate(Obj_HemomancerA2, 300, 3, "Enemy", x, y)
+			Obj_HemomancerA2.Var_Player = id
 			CD.Var_A2CD = 0}
 		
 	// Ability 3

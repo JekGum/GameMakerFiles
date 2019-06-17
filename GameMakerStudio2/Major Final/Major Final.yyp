@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0e9cacaf-f395-47bc-ad32-6b2e0d4bbb0d",
+            "Value": {
+                "id": "2d227eac-cd9d-46ca-8f7f-bafb2c55a921",
+                "resourcePath": "objects\\Obj_DruidA3\\Obj_DruidA3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0fea1757-f4a2-47e7-9e6e-503e654bd79d",
             "Value": {
                 "id": "547ad0ef-b85a-4357-ba2d-432fb9864329",
@@ -279,6 +287,14 @@
             }
         },
         {
+            "Key": "41381ad9-a0cf-4b96-8887-f5fd69e85dd1",
+            "Value": {
+                "id": "4f852e1c-9735-4ad5-b1df-a7610c4f869a",
+                "resourcePath": "views\\41381ad9-a0cf-4b96-8887-f5fd69e85dd1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "41831b7b-4ff3-4daa-a5e4-8955ec087c7f",
             "Value": {
                 "id": "2196a2ac-be69-424d-bf01-2a98026f48d2",
@@ -427,6 +443,14 @@
             "Value": {
                 "id": "1d17e4e8-333f-4040-a274-7c0123874c6c",
                 "resourcePath": "objects\\Obj_Enchanter\\Obj_Enchanter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5c9869a7-a577-4c18-a6b1-21ea44347ba9",
+            "Value": {
+                "id": "320ec950-a6ac-4414-af02-66cfee34ca8e",
+                "resourcePath": "objects\\Obj_DruidDebuff\\Obj_DruidDebuff.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -607,6 +631,14 @@
             }
         },
         {
+            "Key": "84fdc7a9-6c90-479d-abd7-0392c01c0f70",
+            "Value": {
+                "id": "d967431b-89e4-47b8-969b-b2b251531ead",
+                "resourcePath": "objects\\Obj_DruidCD\\Obj_DruidCD.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "85299131-5dc4-4193-b7dd-e75a8c113554",
             "Value": {
                 "id": "5c8f18ea-855d-4164-bb8e-8d1cfbd87a18",
@@ -692,6 +724,14 @@
                 "id": "04d34d45-3cd6-4eab-a5c4-f45cbe30e189",
                 "resourcePath": "sprites\\Spr_TempestA3Water\\Spr_TempestA3Water.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9035e3d6-860d-4f48-956f-37f086b96936",
+            "Value": {
+                "id": "f657a23d-1c53-44d3-981b-58e4784de3ea",
+                "resourcePath": "objects\\Obj_DruidA2\\Obj_DruidA2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -839,6 +879,14 @@
             }
         },
         {
+            "Key": "abf215ef-3632-4654-90af-a51aa0f8fb0d",
+            "Value": {
+                "id": "e204b3dc-7ce8-4de6-96df-37565c5a0d35",
+                "resourcePath": "objects\\Obj_DruidP\\Obj_DruidP.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ae974842-e50f-42b3-9373-4760c21856ff",
             "Value": {
                 "id": "40319098-c514-4042-a210-35afd8f9b52e",
@@ -919,6 +967,14 @@
             }
         },
         {
+            "Key": "c51693d8-9423-45f4-ac23-39ec8997deb8",
+            "Value": {
+                "id": "3a7c2470-63f8-4f97-a7d8-4bc9f242f3ea",
+                "resourcePath": "objects\\Obj_DruidA4\\Obj_DruidA4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c7c63fd1-1d23-4068-8cc7-b12f0b2fc87a",
             "Value": {
                 "id": "2e742698-484f-4516-bd65-2bff39cb12a0",
@@ -995,6 +1051,14 @@
             "Value": {
                 "id": "dcacff3e-874a-48cc-ab3d-5dabb8f6ae24",
                 "resourcePath": "objects\\Par_Player\\Par_Player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d5cac7a9-9e0e-4642-8d13-3b13e58e8257",
+            "Value": {
+                "id": "8b7d0beb-3088-445a-9d11-dc158d389def",
+                "resourcePath": "objects\\Obj_DruidBuff\\Obj_DruidBuff.yy",
                 "resourceType": "GMObject"
             }
         },

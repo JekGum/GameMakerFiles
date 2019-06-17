@@ -7,7 +7,14 @@ if Var_Class == "Obj_Antimage"{}
 
 else if Var_Class == "Obj_Bard"{}
 
-else if Var_Class == "Obj_Druid"{}
+else if Var_Class == "Obj_Druid"{
+	if t.Var_PetID.Var_State == 0{
+		var ps = "Follow"}
+	else if t.Var_PetID.Var_State == 1{
+		var ps = "Defend"}
+	else{
+		var ps = "Attack"}
+	Scr_DrawOutlinedText(ps, 664, 945, c_black, c_white)}
 
 else if Var_Class == "Obj_Duelist"{}
 

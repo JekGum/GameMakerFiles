@@ -1,0 +1,1 @@
+other.Var_CurrentHealth ++
