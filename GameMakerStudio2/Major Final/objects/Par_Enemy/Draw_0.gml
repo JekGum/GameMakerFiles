@@ -8,7 +8,8 @@ if Var_RecentDamage == true{
 	var y2 = (y - (sprite_height / 2) - 15)
 	draw_rectangle(x1, y1, x2, y2, false)
 	draw_set_color(c_orange)
-	draw_rectangle(x1 + 2, y1 - 2, x1 + (57 * (Var_CurrentHealth / Var_MaxHealth)), y2 + 2, false)}
+	draw_rectangle(x1 + 2, y1 - 2, x1 + 2 + (55 * (Var_CurrentHealth / Var_MaxHealth)), y2 + 2, false)
+	show_debug_message(Var_CurrentHealth / Var_MaxHealth)}
 
 else if Var_CurrentHealth < Var_MaxHealth{
 	draw_set_alpha(0.2)

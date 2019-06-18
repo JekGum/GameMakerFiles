@@ -20,7 +20,7 @@
 
 	// Ability 2
 		if Scr_AbilityAvaliable("Active", CD.Var_A2CD, "Press", "2") == true{
-			instance_create_depth(x, y, 1, Obj_DruidA2)
+			instance_create_depth(mouse_x, mouse_y, 1, Obj_DruidA2)
 			CD.Var_A2CD = 0}
 	
 	// Ability 3
@@ -29,3 +29,6 @@
 			CD.Var_A3CD = 0}
 	
 	// Ability 4
+		if Scr_AbilityAvaliable("Active", CD.Var_A4CD, "Press", "4") == true{
+			instance_create_depth(x, y, 1, Obj_DruidA4)
+			CD.Var_A4CD = 0}

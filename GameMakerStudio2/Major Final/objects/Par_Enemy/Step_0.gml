@@ -1,6 +1,3 @@
-if Var_CurrentHealth < 1{
-	instance_destroy()}
-	
 if Var_PreviousCurrentHealth > Var_CurrentHealth{
 	Var_PreviousCurrentHealth = Var_CurrentHealth
 	Var_RecentDamage = true
@@ -14,7 +11,6 @@ if Var_PreviousCurrentHealth < Var_CurrentHealth{
 if Var_OOC == true && Var_CurrentHealth < Var_MaxHealth{
 	Var_CurrentHealth += 1}
 
-show_debug_message(alarm[0])
 // Rooted
 	if Var_Rooted >= 1{
 		hspeed = 0
@@ -24,14 +20,14 @@ show_debug_message(alarm[0])
 		hspeed = 2}
 
 // Slowed
-	if Var_Slowed > 1{
+	if Var_Slowed >= 1{
 		Var_MS = 2
 		Var_Slowed -= 1}
 	else{
 		Var_MS = 5}
 
 // Stunned
-	if Var_Stunned > 1{
+	if Var_Stunned >= 1{
 		hspeed = 0
 		vspeed = 0
 		Var_AttackAvaliable = false
@@ -40,11 +36,21 @@ show_debug_message(alarm[0])
 		Var_AttackAvaliable = true}
 
 // Bleeding
-	if Var_Bleeding > 1{
+	if Var_Bleeding >= 1{
 		Var_CurrentHealth -= 5
 		Var_Bleeding -= 1}
 
 // Poisoned
-	if Var_Poisoned > 1{
+	if Var_Poisoned >= 1{
 		Var_CurrentHealth -= 5
 		Var_Poisoned -= 1}
+		
+// Confused
+	if Var_Confused >= 1{
+		Var_SelfDamage = true
+		Var_Confused -= 1}
+	else{
+		Var_SelfDamage = false}
+	
+	if Var_SelfDamage == true && (hspeed != 0 or vspeed != 0){
+		Var_CurrentHealth -= 1}
