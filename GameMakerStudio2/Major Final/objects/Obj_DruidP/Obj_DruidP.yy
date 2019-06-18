@@ -51,7 +51,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "0359e2d3-aba5-4423-873f-0856ad03c942",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "DruidPet",
+            "varName": "Var_EntityType",
+            "varType": 2
+        }
+    ],
     "solid": false,
     "spriteId": "f95246c1-67d7-4a4c-933c-b96801ab21d1",
     "visible": true

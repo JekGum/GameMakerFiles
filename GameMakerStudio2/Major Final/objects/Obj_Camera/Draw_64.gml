@@ -1,6 +1,7 @@
 var t = Var_CameraTarget
 var cd = t.CD
 
+draw_set_alpha(1)
 draw_sprite(sprite13, 0, 0, 0)
 
 if Var_Class == "Obj_Antimage"{}

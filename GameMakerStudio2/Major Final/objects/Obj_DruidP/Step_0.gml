@@ -9,7 +9,7 @@ if Var_Target != noone{
 	else{
 		move_towards_point(Var_Target.x, Var_Target.y, 10)
 		if Scr_CollisionWithEntity(x, y, Var_Target) == true{
-			instance_destroy(Var_Target)
+			Var_Target.Var_CurrentHealth -= 5
 			Var_Target = noone
 			Var_State = 0}}}
 			
