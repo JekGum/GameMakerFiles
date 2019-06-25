@@ -1,28 +1,18 @@
 {
-    "id": "dd0f1ff3-de14-48c2-a3f8-1e63e9124d9f",
+    "id": "b8c06ed8-855f-4f05-a2fe-2839124b02fb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_RoomReset",
+    "name": "object61",
     "eventList": [
         {
-            "id": "9acf9666-901d-4905-b5cb-59b47fb9f5ee",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 82,
-            "eventtype": 9,
-            "m_owner": "dd0f1ff3-de14-48c2-a3f8-1e63e9124d9f"
-        },
-        {
-            "id": "72e4d23d-a155-460e-a56f-4de94c385b76",
+            "id": "881d57ea-34f1-494d-b5b2-69e041a02309",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "dd0f1ff3-de14-48c2-a3f8-1e63e9124d9f"
+            "m_owner": "b8c06ed8-855f-4f05-a2fe-2839124b02fb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

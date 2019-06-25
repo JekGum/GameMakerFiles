@@ -54,3 +54,13 @@ if Var_OOC == true && Var_CurrentHealth < Var_MaxHealth{
 	
 	if Var_SelfDamage == true && (hspeed != 0 or vspeed != 0){
 		Var_CurrentHealth -= 1}
+
+// Wet
+	if Var_Wet >= 1{
+		Var_Ignited = 0
+		Var_Wet -= 1}
+
+// Ignited
+	if Var_Ignited >= 1{
+		Var_CurrentHealth -= 5
+		Var_Ignited -= 1}

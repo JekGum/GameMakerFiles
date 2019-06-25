@@ -1,0 +1,1 @@
+global.Var_StartButtonNum = 0
