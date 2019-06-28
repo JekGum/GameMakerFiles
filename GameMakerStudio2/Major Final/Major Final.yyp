@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "07b5f6c6-eedd-4a4e-87ff-1244e845f781",
+            "Value": {
+                "id": "3837f765-7036-40f4-97f0-ee772f5c197c",
+                "resourcePath": "tilesets\\TS_Town\\TS_Town.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "0892d54f-10c5-4549-8395-a86d39f07a58",
             "Value": {
                 "id": "08b6d152-255c-46a1-8d64-49f55370317e",
@@ -68,6 +76,14 @@
                 "id": "fa5f886c-f2d6-4e2e-b914-8f098b4a22ad",
                 "resourcePath": "sprites\\Spr_TempestA2Fire\\Spr_TempestA2Fire.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0cc73131-8eec-4d29-a404-0633149fb88e",
+            "Value": {
+                "id": "82a20c8f-ea5a-4f97-b283-690988cee462",
+                "resourcePath": "views\\0cc73131-8eec-4d29-a404-0633149fb88e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -532,6 +548,14 @@
                 "id": "586c4bf9-d09e-4694-ae32-478fb17e7568",
                 "resourcePath": "rooms\\R_Town\\R_Town.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "68654066-43f7-49a8-9714-37f3b99cd37a",
+            "Value": {
+                "id": "24673c27-2893-4a75-9608-c4256f2d3022",
+                "resourcePath": "sprites\\Spr_Town\\Spr_Town.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
