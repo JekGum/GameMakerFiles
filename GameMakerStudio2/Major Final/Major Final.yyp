@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "06470cb6-c17e-4458-b739-53cf23dca4a4",
+            "Value": {
+                "id": "ae056bf9-30ac-4060-b41b-0ed9ccd5664c",
+                "resourcePath": "sprites\\Spr_Hemomancer\\Spr_Hemomancer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "07b5f6c6-eedd-4a4e-87ff-1244e845f781",
             "Value": {
                 "id": "3837f765-7036-40f4-97f0-ee772f5c197c",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "3b5bf54f-0d47-428d-9e09-525763801a04",
+            "Value": {
+                "id": "b414a689-4791-4c8b-a4ae-97cc8bc7ad16",
+                "resourcePath": "views\\3b5bf54f-0d47-428d-9e09-525763801a04.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3faa1fd5-8133-420c-b2f5-eccd66fc5800",
             "Value": {
                 "id": "a7520392-9e60-4d6c-a82b-614561b727bb",
@@ -415,6 +431,14 @@
             }
         },
         {
+            "Key": "49d2ba9c-ba97-42e3-b25f-087d58c9d2f5",
+            "Value": {
+                "id": "ce86ebb2-951c-4fca-90ec-6e23b4b3d71c",
+                "resourcePath": "sprites\\Spr_Tempest\\Spr_Tempest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b0e10cd-f374-4c62-bd96-62916aa1bdb4",
             "Value": {
                 "id": "0099ea6a-40a6-4045-977b-40708752ca12",
@@ -484,6 +508,14 @@
                 "id": "61dc3687-f741-4cf1-91df-959a8c44810e",
                 "resourcePath": "views\\58c2d922-7855-4417-a40e-7b6b16bf654a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a3f80bc-13dd-4f2c-929c-91056ed020d8",
+            "Value": {
+                "id": "e2bc350b-334e-4f96-991e-25c7a435e60c",
+                "resourcePath": "sprites\\Spr_Duelist\\Spr_Duelist.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -636,6 +668,14 @@
                 "id": "c9b19931-62b2-4796-8861-f79a79f122ca",
                 "resourcePath": "rooms\\Par_Room\\Par_Room.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "714a9b0a-5f66-46d8-8952-881ecef0f8b3",
+            "Value": {
+                "id": "69133953-d581-4a8d-8848-4bfd27f43374",
+                "resourcePath": "views\\714a9b0a-5f66-46d8-8952-881ecef0f8b3.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1023,6 +1063,22 @@
             }
         },
         {
+            "Key": "b61844ad-b515-47f6-bd67-8b35fe7e669a",
+            "Value": {
+                "id": "faba86b4-10ff-496d-897b-e3bc811769c9",
+                "resourcePath": "sprites\\Spr_Druid\\Spr_Druid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b61efe02-85c3-4b18-b5f3-3b004ffb15b9",
+            "Value": {
+                "id": "776cc1f2-9163-4b88-9fb4-2d5d6552bbb6",
+                "resourcePath": "views\\b61efe02-85c3-4b18-b5f3-3b004ffb15b9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b8c06ed8-855f-4f05-a2fe-2839124b02fb",
             "Value": {
                 "id": "5a5ecd47-228d-429f-88c0-acbf62d51fd2",
@@ -1199,6 +1255,14 @@
             }
         },
         {
+            "Key": "d670cf03-ef53-447f-80eb-7591a645e3e6",
+            "Value": {
+                "id": "2838f12d-dad9-450b-a8d4-057d8250a711",
+                "resourcePath": "sprites\\Spr_HemomancerA2\\Spr_HemomancerA2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d6f7dc66-e717-46ba-a083-b5394a02075d",
             "Value": {
                 "id": "f5137f4e-f3ae-4bbd-a580-62b041876100",
@@ -1284,6 +1348,14 @@
                 "id": "fdeca45e-5ae8-4a54-abd8-a40e12a0ae22",
                 "resourcePath": "scripts\\Scr_ProjectileHitDetection\\Scr_ProjectileHitDetection.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e87d3f95-0673-46b5-a52b-de6897c8a978",
+            "Value": {
+                "id": "72f4c296-45d7-4323-a795-11b32d3e323a",
+                "resourcePath": "sprites\\Spr_HemomancerA1\\Spr_HemomancerA1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
