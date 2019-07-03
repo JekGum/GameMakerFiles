@@ -154,7 +154,7 @@
             "Key": "17692926-a564-48ae-8edd-f94fd5cf464a",
             "Value": {
                 "id": "d51f2dfe-4eb1-4b21-afcb-dd1fcd5c8706",
-                "resourcePath": "objects\\Obj_TE\\Obj_TE.yy",
+                "resourcePath": "objects\\Obj_TargetDummy\\Obj_TargetDummy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -315,6 +315,14 @@
             "Value": {
                 "id": "fc6cd3a6-1dc1-48b0-a4fc-947b387399fa",
                 "resourcePath": "sprites\\Spr_TempestA2Air\\Spr_TempestA2Air.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3a56e3c8-b4ee-4975-818f-bccc740ebd0e",
+            "Value": {
+                "id": "d34bc497-7131-4f77-88a8-d9379a542dca",
+                "resourcePath": "sprites\\Spr_TargetDummy\\Spr_TargetDummy.yy",
                 "resourceType": "GMSprite"
             }
         },

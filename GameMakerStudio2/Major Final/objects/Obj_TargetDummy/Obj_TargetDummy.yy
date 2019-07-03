@@ -2,7 +2,7 @@
     "id": "17692926-a564-48ae-8edd-f94fd5cf464a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_TE",
+    "name": "Obj_TargetDummy",
     "eventList": [
         {
             "id": "0bb6ef80-23a3-4d6a-8893-c0cf645f61c4",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "28a6bfb1-f093-40c4-82b0-cbde450e4642",
+    "spriteId": "3a56e3c8-b4ee-4975-818f-bccc740ebd0e",
     "visible": true
 }

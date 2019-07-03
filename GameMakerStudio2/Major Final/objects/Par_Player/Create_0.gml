@@ -20,4 +20,3 @@
 	debuff.Var_Player = id
 	B = buff.id
 	DB = debuff.id
-	

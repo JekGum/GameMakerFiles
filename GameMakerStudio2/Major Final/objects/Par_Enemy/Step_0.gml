@@ -17,7 +17,7 @@ if Var_OOC == true && Var_CurrentHealth < Var_MaxHealth{
 		vspeed = 0
 		Var_Rooted -= 1}
 	else{
-		hspeed = 2}
+		}
 
 // Slowed
 	if Var_Slowed >= 1{
