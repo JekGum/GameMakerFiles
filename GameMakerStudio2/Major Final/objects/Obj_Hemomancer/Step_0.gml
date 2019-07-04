@@ -17,7 +17,8 @@
 			if Scr_CollisionWithEntity(mouse_x, mouse_y, "Enemy") == true{
 				var e = instance_position(mouse_x, mouse_y, Par_Enemy)
 				Scr_ProjectileCreate(Obj_HemomancerA1, "Tracker", 1, self, Scr_RandomCoordOnObj(e, "X"), Scr_RandomCoordOnObj(e, "Y"), true)
-				CD.Var_A1S -= 1}
+				CD.Var_A1S -= 1
+				e.Var_CurrentHealth -= 2}
 			else{}}
 
 		

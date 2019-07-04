@@ -1,3 +1,3 @@
 if Var_Up == false{
-	instance_destroy(other)}
+	other.Var_CurrentHealth -= 3}
 else{}

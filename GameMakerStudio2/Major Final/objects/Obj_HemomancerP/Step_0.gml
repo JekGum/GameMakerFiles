@@ -1,2 +1,4 @@
 if Var_Up == false{
-	image_index = 1}
+	image_speed = 1}
+if image_index == 7{
+	instance_destroy(self)}

@@ -14,3 +14,5 @@ Arr_CurrentClass[8] = "Necromancer"
 Arr_CurrentClass[9] = "Priest"
 Arr_CurrentClass[10] = "Rogue"
 Arr_CurrentClass[11] = "Tempest"
+
+Var_Locked = true
